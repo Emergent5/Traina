@@ -1,0 +1,4717 @@
+var SportsFacilitities ={
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.640316",
+        "Y": "-37.898601",
+        "OBJECTID": "9001",
+        "Facility_ID": "WYNDHA8530",
+        "FacilityName": "Werribee Sports & Fitness Centre",
+        "StreetNo": "",
+        "StreetName": "Ballan",
+        "StreetType": "Road",
+        "SuburbTown": "WERRIBEE",
+        "Postcode": "3030",
+        "FaciltySportPlayedID": "26686",
+        "SportsPlayed": "Netball",
+        "NumberFieldCourts": "5",
+        "FieldSurfaceType": "Hard Court",
+        "FacilityAge": "",
+        "FacilityCondition": "4. Good",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "Female, Male",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.640316,
+          -37.898601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.7275",
+        "Y": "-37.872",
+        "OBJECTID": "9002",
+        "Facility_ID": "WYNDHA11288",
+        "FacilityName": "Hoppers Indoor Sportz",
+        "StreetNo": "",
+        "StreetName": "Graham",
+        "StreetType": "Court",
+        "SuburbTown": "HOPPERS CROSSING",
+        "Postcode": "3029",
+        "FaciltySportPlayedID": "26982",
+        "SportsPlayed": "Netball (indoor)",
+        "NumberFieldCourts": "2",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7275,
+          -37.872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.659074",
+        "Y": "-37.913492",
+        "OBJECTID": "9003",
+        "Facility_ID": "WYNDHA8521",
+        "FacilityName": "Riverside Indoor Sports",
+        "StreetNo": "13",
+        "StreetName": "Riverside",
+        "StreetType": "Avenue",
+        "SuburbTown": "WERRIBEE",
+        "Postcode": "3030",
+        "FaciltySportPlayedID": "26667",
+        "SportsPlayed": "Netball (Indoor)",
+        "NumberFieldCourts": "5",
+        "FieldSurfaceType": "Carpet Playing Surface",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.659074,
+          -37.913492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.67498",
+        "Y": "-37.924111",
+        "OBJECTID": "9004",
+        "Facility_ID": "WYNDHA8516",
+        "FacilityName": "National Equestrian Centre",
+        "StreetNo": "",
+        "StreetName": "K",
+        "StreetType": "Road",
+        "SuburbTown": "WERRIBEE",
+        "Postcode": "3030",
+        "FaciltySportPlayedID": "26653",
+        "SportsPlayed": "Polo",
+        "NumberFieldCourts": "2",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.67498,
+          -37.924111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.71783",
+        "Y": "-37.840037",
+        "OBJECTID": "9005",
+        "Facility_ID": "WYNDHA5496",
+        "FacilityName": "Clearwood Drive Reserve",
+        "StreetNo": "",
+        "StreetName": "Clearwood",
+        "StreetType": "Drive",
+        "SuburbTown": "TRUGANINA",
+        "Postcode": "",
+        "FaciltySportPlayedID": "27809",
+        "SportsPlayed": "Rugby League",
+        "NumberFieldCourts": "2",
+        "FieldSurfaceType": "",
+        "FacilityAge": "0 - 5 Years",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "New facility under construction",
+        "Changerooms": "",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.71783,
+          -37.840037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.609389",
+        "Y": "-37.897069",
+        "OBJECTID": "9006",
+        "Facility_ID": "WYNDHA11000",
+        "FacilityName": "Haines Drive Reserve",
+        "StreetNo": "",
+        "StreetName": "Haines",
+        "StreetType": "Road",
+        "SuburbTown": "WYNDHAM VALE",
+        "Postcode": "3024",
+        "FaciltySportPlayedID": "27810",
+        "SportsPlayed": "Rugby League",
+        "NumberFieldCourts": "2",
+        "FieldSurfaceType": "",
+        "FacilityAge": "0 - 5 Years",
+        "FacilityCondition": "5. Very Good",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "Female, Male, Umpire/Officials",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.609389,
+          -37.897069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.692478",
+        "Y": "-37.877437",
+        "OBJECTID": "9008",
+        "Facility_ID": "WYNDHA8514",
+        "FacilityName": "Mossfiel Reserve",
+        "StreetNo": "",
+        "StreetName": "Heaths",
+        "StreetType": "Road",
+        "SuburbTown": "HOPPERS CROSSING",
+        "Postcode": "3029",
+        "FaciltySportPlayedID": "26647",
+        "SportsPlayed": "Rugby Union",
+        "NumberFieldCourts": "2",
+        "FieldSurfaceType": "Grass",
+        "FacilityAge": "26 - 50 Years",
+        "FacilityCondition": "3. Average",
+        "FacilityUpgradeAge": "N/A",
+        "Changerooms": "Umpire/Officials, Unisex",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.692478,
+          -37.877437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.640603",
+        "Y": "-37.898303",
+        "OBJECTID": "9009",
+        "Facility_ID": "WYNDHA11205",
+        "FacilityName": "Wyndham Handgun Club",
+        "StreetNo": "",
+        "StreetName": "Ballan",
+        "StreetType": "Road",
+        "SuburbTown": "WERRIBEE",
+        "Postcode": "3030",
+        "FaciltySportPlayedID": "27283",
+        "SportsPlayed": "Shooting Sports",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.640603,
+          -37.898303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.735336",
+        "Y": "-37.880556",
+        "OBJECTID": "9010",
+        "Facility_ID": "WYNDHA8492",
+        "FacilityName": "Boardwalk Skate Park",
+        "StreetNo": "",
+        "StreetName": "Boardwalk",
+        "StreetType": "Boulevard",
+        "SuburbTown": "POINT COOK",
+        "Postcode": "3030",
+        "FaciltySportPlayedID": "26594",
+        "SportsPlayed": "Skating",
+        "NumberFieldCourts": "1",
+        "FieldSurfaceType": "Concrete",
+        "FacilityAge": "0 - 5 Years",
+        "FacilityCondition": "3. Average",
+        "FacilityUpgradeAge": "N/A",
+        "Changerooms": "",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.735336,
+          -37.880556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.497406",
+        "Y": "-37.961417",
+        "OBJECTID": "9011",
+        "Facility_ID": "WYNDHA8512",
+        "FacilityName": "Little River Reserve",
+        "StreetNo": "",
+        "StreetName": "You Yangs",
+        "StreetType": "Road",
+        "SuburbTown": "LITTLE RIVER",
+        "Postcode": "3211",
+        "FaciltySportPlayedID": "26640",
+        "SportsPlayed": "Skating",
+        "NumberFieldCourts": "1",
+        "FieldSurfaceType": "Concrete",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.497406,
+          -37.961417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.634572",
+        "Y": "-37.88181",
+        "OBJECTID": "9013",
+        "Facility_ID": "WYNDHA8518",
+        "FacilityName": "Presidents Park",
+        "StreetNo": "",
+        "StreetName": "McGraths",
+        "StreetType": "Road",
+        "SuburbTown": "WERRIBEE",
+        "Postcode": "3030",
+        "FaciltySportPlayedID": "26658",
+        "SportsPlayed": "Skating",
+        "NumberFieldCourts": "1",
+        "FieldSurfaceType": "Concrete",
+        "FacilityAge": "6 - 10 Years",
+        "FacilityCondition": "3. Average",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.634572,
+          -37.88181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.729419",
+        "Y": "-37.860804",
+        "OBJECTID": "9014",
+        "Facility_ID": "WYNDHA10998",
+        "FacilityName": "Forsyth Road Reserve",
+        "StreetNo": "",
+        "StreetName": "Forsyth",
+        "StreetType": "Road",
+        "SuburbTown": "TRUGANINA",
+        "Postcode": "3029",
+        "FaciltySportPlayedID": "26567",
+        "SportsPlayed": "Soccer",
+        "NumberFieldCourts": "2",
+        "FieldSurfaceType": "Grass",
+        "FacilityAge": "0 - 5 Years",
+        "FacilityCondition": "5. Very Good",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "Female, Male, Umpire/Officials, Unisex",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.729419,
+          -37.860804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.650409",
+        "Y": "-37.88706",
+        "OBJECTID": "9016",
+        "Facility_ID": "WYNDHA8502",
+        "FacilityName": "Galvin Park",
+        "StreetNo": "",
+        "StreetName": "Shaws",
+        "StreetType": "Road",
+        "SuburbTown": "WERRIBEE",
+        "Postcode": "3030",
+        "FaciltySportPlayedID": "26619",
+        "SportsPlayed": "Soccer",
+        "NumberFieldCourts": "3",
+        "FieldSurfaceType": "Grass",
+        "FacilityAge": "11 - 25 Years",
+        "FacilityCondition": "4. Good",
+        "FacilityUpgradeAge": "Upgrade in progress",
+        "Changerooms": "Umpire/Officials, Unisex",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.650409,
+          -37.88706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.676572",
+        "Y": "-37.860885",
+        "OBJECTID": "9017",
+        "Facility_ID": "WYNDHA8505",
+        "FacilityName": "Grange Reserve Soccer Complex",
+        "StreetNo": "",
+        "StreetName": "Hogans",
+        "StreetType": "Road",
+        "SuburbTown": "HOPPERS CROSSING",
+        "Postcode": "3029",
+        "FaciltySportPlayedID": "26622",
+        "SportsPlayed": "Soccer",
+        "NumberFieldCourts": "2",
+        "FieldSurfaceType": "Grass",
+        "FacilityAge": "0 - 5 Years",
+        "FacilityCondition": "5. Very Good",
+        "FacilityUpgradeAge": "N/A",
+        "Changerooms": "Umpire/Officials, Unisex",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.676572,
+          -37.860885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.752502",
+        "Y": "-37.909351",
+        "OBJECTID": "9019",
+        "Facility_ID": "WYNDHA11003",
+        "FacilityName": "Saltwater Reserve",
+        "StreetNo": "",
+        "StreetName": "Point Cook",
+        "StreetType": "Road",
+        "SuburbTown": "POINT COOK",
+        "Postcode": "3030",
+        "FaciltySportPlayedID": "26580",
+        "SportsPlayed": "Soccer",
+        "NumberFieldCourts": "3",
+        "FieldSurfaceType": "Artificial Turf",
+        "FacilityAge": "0 - 5 Years",
+        "FacilityCondition": "5. Very Good",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "Female, Male, Umpire/Officials, Unisex",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.752502,
+          -37.909351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.727529",
+        "Y": "-37.89401",
+        "OBJECTID": "9020",
+        "Facility_ID": "WYNDHA11004",
+        "FacilityName": "Tom Roberts Parade Reserve",
+        "StreetNo": "",
+        "StreetName": "Tom Robert",
+        "StreetType": "Parade",
+        "SuburbTown": "POINT COOK",
+        "Postcode": "3030",
+        "FaciltySportPlayedID": "26583",
+        "SportsPlayed": "Soccer",
+        "NumberFieldCourts": "2",
+        "FieldSurfaceType": "Grass",
+        "FacilityAge": "0 - 5 Years",
+        "FacilityCondition": "5. Very Good",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "Female, Male, Umpire/Officials, Unisex",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.727529,
+          -37.89401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.702157",
+        "Y": "-37.892629",
+        "OBJECTID": "9021",
+        "Facility_ID": "WYNDHA8526",
+        "FacilityName": "VU Wyndham Sporting Complex",
+        "StreetNo": "",
+        "StreetName": "Hoppers",
+        "StreetType": "Lane",
+        "SuburbTown": "WERRIBEE",
+        "Postcode": "3030",
+        "FaciltySportPlayedID": "26677",
+        "SportsPlayed": "Soccer",
+        "NumberFieldCourts": "1",
+        "FieldSurfaceType": "Grass",
+        "FacilityAge": "6 - 10 Years",
+        "FacilityCondition": "4. Good",
+        "FacilityUpgradeAge": "< 1 Years",
+        "Changerooms": "Female, Male",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.702157,
+          -37.892629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.764933",
+        "Y": "-37.852136",
+        "OBJECTID": "9023",
+        "Facility_ID": "WYNDHA8511",
+        "FacilityName": "Laurie Emmins Reserve",
+        "StreetNo": "",
+        "StreetName": "Sayers",
+        "StreetType": "Road",
+        "SuburbTown": "LAVERTON NORTH",
+        "Postcode": "3026",
+        "FaciltySportPlayedID": "26637",
+        "SportsPlayed": "Softball",
+        "NumberFieldCourts": "1",
+        "FieldSurfaceType": "Grass",
+        "FacilityAge": "11 - 25 Years",
+        "FacilityCondition": "2. Poor",
+        "FacilityUpgradeAge": "6 - 10 Years",
+        "Changerooms": "",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.764933,
+          -37.852136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.691056",
+        "Y": "-37.869127",
+        "OBJECTID": "9025",
+        "Facility_ID": "WYNDHA8500",
+        "FacilityName": "Fenix Fitness Club Hoppers Crossing",
+        "StreetNo": "116",
+        "StreetName": "Mossfiel",
+        "StreetType": "Drive",
+        "SuburbTown": "HOPPERS CROSSING",
+        "Postcode": "3029",
+        "FaciltySportPlayedID": "26614",
+        "SportsPlayed": "Swimming",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "25m Pool - Indoor, Spa/Sauna",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.691056,
+          -37.869127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.729",
+        "Y": "-37.866",
+        "OBJECTID": "9026",
+        "Facility_ID": "WYNDHA8523",
+        "FacilityName": "Shawn's Swim School",
+        "StreetNo": "35",
+        "StreetName": "Richards",
+        "StreetType": "Road",
+        "SuburbTown": "HOPPERS CROSSING",
+        "Postcode": "3029",
+        "FaciltySportPlayedID": "26671",
+        "SportsPlayed": "Swimming",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "25m Pool - Indoor",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.729,
+          -37.866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.651882",
+        "Y": "-37.906041",
+        "OBJECTID": "9027",
+        "Facility_ID": "WYNDHA8528",
+        "FacilityName": "Werribee Olympic Pool",
+        "StreetNo": "",
+        "StreetName": "Watton",
+        "StreetType": "Street",
+        "SuburbTown": "WERRIBEE",
+        "Postcode": "3030",
+        "FaciltySportPlayedID": "26680",
+        "SportsPlayed": "Swimming",
+        "NumberFieldCourts": "3",
+        "FieldSurfaceType": "50m Pool - Outdoor, Recreation / Play Water Space, Toddlers Pool",
+        "FacilityAge": "",
+        "FacilityCondition": "5. Very Good",
+        "FacilityUpgradeAge": "1 - 5 Years",
+        "Changerooms": "Female, Male, Unisex",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.651882,
+          -37.906041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.683355",
+        "Y": "-37.882173",
+        "OBJECTID": "9028",
+        "Facility_ID": "WYNDHA8533",
+        "FacilityName": "Wyndham Leisure & Events Centre",
+        "StreetNo": "",
+        "StreetName": "Derrimut",
+        "StreetType": "Road",
+        "SuburbTown": "HOPPERS CROSSING",
+        "Postcode": "3029",
+        "FaciltySportPlayedID": "26694",
+        "SportsPlayed": "Swimming",
+        "NumberFieldCourts": "5",
+        "FieldSurfaceType": "50m Pool - Indoor, Recreation / Play Water Space, Rehabilitation Pool, Spa/Sauna, Toddlers Pool",
+        "FacilityAge": "11 - 25 Years",
+        "FacilityCondition": "5. Very Good",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "Female, Male, Unisex",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.683355,
+          -37.882173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.675717",
+        "Y": "-37.871069",
+        "OBJECTID": "9030",
+        "Facility_ID": "WYNDHA8494",
+        "FacilityName": "Cambridge Reserve",
+        "StreetNo": "",
+        "StreetName": "Barber",
+        "StreetType": "Drive",
+        "SuburbTown": "HOPPERS CROSSING",
+        "Postcode": "3029",
+        "FaciltySportPlayedID": "26598",
+        "SportsPlayed": "Tennis (Outdoor)",
+        "NumberFieldCourts": "6",
+        "FieldSurfaceType": "Hard Court",
+        "FacilityAge": "11 - 25 Years",
+        "FacilityCondition": "4. Good",
+        "FacilityUpgradeAge": "1 - 5 Years",
+        "Changerooms": "Female, Male",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.675717,
+          -37.871069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.652061",
+        "Y": "-37.904815",
+        "OBJECTID": "9031",
+        "Facility_ID": "WYNDHA8495",
+        "FacilityName": "Chirnside Park",
+        "StreetNo": "",
+        "StreetName": "Watton",
+        "StreetType": "Street",
+        "SuburbTown": "WERRIBEE",
+        "Postcode": "3030",
+        "FaciltySportPlayedID": "26602",
+        "SportsPlayed": "Tennis (Outdoor)",
+        "NumberFieldCourts": "2",
+        "FieldSurfaceType": "Hard Court",
+        "FacilityAge": "",
+        "FacilityCondition": "4. Good",
+        "FacilityUpgradeAge": "< 1 Years",
+        "Changerooms": "Female, Male",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.652061,
+          -37.904815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.692773",
+        "Y": "-37.86949",
+        "OBJECTID": "9034",
+        "Facility_ID": "WYNDHA8508",
+        "FacilityName": "Hoppers Crossing Club",
+        "StreetNo": "",
+        "StreetName": "Pannam",
+        "StreetType": "Drive",
+        "SuburbTown": "HOPPERS CROSSING",
+        "Postcode": "3029",
+        "FaciltySportPlayedID": "26630",
+        "SportsPlayed": "Tennis (Outdoor)",
+        "NumberFieldCourts": "2",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.692773,
+          -37.86949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.748532",
+        "Y": "-37.896312",
+        "OBJECTID": "9035",
+        "Facility_ID": "WYNDHA8510",
+        "FacilityName": "Jamieson Way Tennis & Netball Complex",
+        "StreetNo": "",
+        "StreetName": "Jamieson",
+        "StreetType": "Way",
+        "SuburbTown": "POINT COOK",
+        "Postcode": "3030",
+        "FaciltySportPlayedID": "26634",
+        "SportsPlayed": "Tennis (Outdoor)",
+        "NumberFieldCourts": "4",
+        "FieldSurfaceType": "Hard Court",
+        "FacilityAge": "0 - 5 Years",
+        "FacilityCondition": "4. Good",
+        "FacilityUpgradeAge": "N/A",
+        "Changerooms": "Female, Male",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.748532,
+          -37.896312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.691765",
+        "Y": "-37.973368",
+        "OBJECTID": "9038",
+        "Facility_ID": "WYNDHA8519",
+        "FacilityName": "Price Reserse",
+        "StreetNo": "",
+        "StreetName": "Beach",
+        "StreetType": "Road",
+        "SuburbTown": "WERRIBEE",
+        "Postcode": "3030",
+        "FaciltySportPlayedID": "26662",
+        "SportsPlayed": "Tennis (Outdoor)",
+        "NumberFieldCourts": "2",
+        "FieldSurfaceType": "Hard Court",
+        "FacilityAge": "26 - 50 Years",
+        "FacilityCondition": "3. Average",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.691765,
+          -37.973368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.762714",
+        "Y": "-37.896097",
+        "OBJECTID": "9040",
+        "Facility_ID": "WYNDHA8522",
+        "FacilityName": "Sanctuary Lakes Golf Club",
+        "StreetNo": "",
+        "StreetName": "Greg Norman",
+        "StreetType": "Drive",
+        "SuburbTown": "POINT COOK",
+        "Postcode": "3030",
+        "FaciltySportPlayedID": "26670",
+        "SportsPlayed": "Tennis (Outdoor)",
+        "NumberFieldCourts": "3",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.762714,
+          -37.896097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.751023",
+        "Y": "-37.885605",
+        "OBJECTID": "9042",
+        "Facility_ID": "WYNDHA8531",
+        "FacilityName": "Willow Green Park Tennis Courts",
+        "StreetNo": "",
+        "StreetName": "Spindrift",
+        "StreetType": "Way",
+        "SuburbTown": "POINT COOK",
+        "Postcode": "3030",
+        "FaciltySportPlayedID": "26690",
+        "SportsPlayed": "Tennis (Outdoor)",
+        "NumberFieldCourts": "2",
+        "FieldSurfaceType": "Hard Court",
+        "FacilityAge": "6 - 10 Years",
+        "FacilityCondition": "3. Average",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.751023,
+          -37.885605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.66",
+        "Y": "-37.8565",
+        "OBJECTID": "9043",
+        "Facility_ID": "WYNDHA11006",
+        "FacilityName": "Wootten Road Reserve",
+        "StreetNo": "",
+        "StreetName": "Wootten",
+        "StreetType": "Road",
+        "SuburbTown": "TARNEIT",
+        "Postcode": "3029",
+        "FaciltySportPlayedID": "26588",
+        "SportsPlayed": "Tennis (Outdoor)",
+        "NumberFieldCourts": "9",
+        "FieldSurfaceType": "Hard Court",
+        "FacilityAge": "0 - 5 Years",
+        "FacilityCondition": "5. Very Good",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "Female, Male, Umpire/Officials, Unisex",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.66,
+          -37.8565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.619546",
+        "Y": "-37.887244",
+        "OBJECTID": "9044",
+        "Facility_ID": "WYNDHA8532",
+        "FacilityName": "Wyndham Green Tennis Courts",
+        "StreetNo": "",
+        "StreetName": "Amber",
+        "StreetType": "Place",
+        "SuburbTown": "WYNDHAM VALE",
+        "Postcode": "3024",
+        "FaciltySportPlayedID": "26691",
+        "SportsPlayed": "Tennis (Outdoor)",
+        "NumberFieldCourts": "1",
+        "FieldSurfaceType": "Hard Court",
+        "FacilityAge": "6 - 10 Years",
+        "FacilityCondition": "3. Average",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.619546,
+          -37.887244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.726537",
+        "Y": "-37.851221",
+        "OBJECTID": "9045",
+        "Facility_ID": "WYNDHA8535",
+        "FacilityName": "Wyndham Waters",
+        "StreetNo": "",
+        "StreetName": "Sayers",
+        "StreetType": "Road",
+        "SuburbTown": "TRUGANINA",
+        "Postcode": "3029",
+        "FaciltySportPlayedID": "26697",
+        "SportsPlayed": "Tennis (Outdoor)",
+        "NumberFieldCourts": "2",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.726537,
+          -37.851221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.49856",
+        "Y": "-37.960711",
+        "OBJECTID": "3205",
+        "Facility_ID": "GEELON5332",
+        "FacilityName": "Granite Road Circuit",
+        "StreetNo": "",
+        "StreetName": "You Yangs",
+        "StreetType": "Road",
+        "SuburbTown": "LITTLE RIVER",
+        "Postcode": "",
+        "FaciltySportPlayedID": "27579",
+        "SportsPlayed": "Cycling",
+        "NumberFieldCourts": "1",
+        "FieldSurfaceType": "Road",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.49856,
+          -37.960711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.721688",
+        "Y": "-37.822483",
+        "OBJECTID": "3952",
+        "Facility_ID": "HOBSON11346",
+        "FacilityName": "Truganina Club Grounds",
+        "StreetNo": "",
+        "StreetName": "Woods",
+        "StreetType": "Road",
+        "SuburbTown": "TRUGANINA",
+        "Postcode": "3029",
+        "FaciltySportPlayedID": "26854",
+        "SportsPlayed": "Equestrian",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.721688,
+          -37.822483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.680496",
+        "Y": "-37.875501",
+        "OBJECTID": "8907",
+        "Facility_ID": "WYNDHA8491",
+        "FacilityName": "Aeromax Fitness Health Club",
+        "StreetNo": "",
+        "StreetName": "Derrimut",
+        "StreetType": "Road",
+        "SuburbTown": "WERRIBEE",
+        "Postcode": "3030",
+        "FaciltySportPlayedID": "26591",
+        "SportsPlayed": "Aerobics",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.680496,
+          -37.875501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.70575",
+        "Y": "-37.849675",
+        "OBJECTID": "8908",
+        "Facility_ID": "WYNDHA8496",
+        "FacilityName": "Contours Tarneit",
+        "StreetNo": "",
+        "StreetName": "Sayers",
+        "StreetType": "Road",
+        "SuburbTown": "HOPPERS CROSSING",
+        "Postcode": "3029",
+        "FaciltySportPlayedID": "26604",
+        "SportsPlayed": "Aerobics",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.70575,
+          -37.849675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.673475",
+        "Y": "-37.894273",
+        "OBJECTID": "8909",
+        "Facility_ID": "WYNDHA8497",
+        "FacilityName": "Curves For Women",
+        "StreetNo": "87-89",
+        "StreetName": "Railway",
+        "StreetType": "Avenue",
+        "SuburbTown": "WERRIBEE",
+        "Postcode": "3030",
+        "FaciltySportPlayedID": "26606",
+        "SportsPlayed": "Aerobics",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.673475,
+          -37.894273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.702",
+        "Y": "-37.847983",
+        "OBJECTID": "8910",
+        "Facility_ID": "WYNDHA8499",
+        "FacilityName": "EFM Health Clubs Tarneit",
+        "StreetNo": "35",
+        "StreetName": "Thomas Carr",
+        "StreetType": "Drive",
+        "SuburbTown": "TARNEIT",
+        "Postcode": "3029",
+        "FaciltySportPlayedID": "26610",
+        "SportsPlayed": "Aerobics",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.702,
+          -37.847983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.735125",
+        "Y": "-37.884",
+        "OBJECTID": "8912",
+        "Facility_ID": "WYNDHA8501",
+        "FacilityName": "Fenix Fitness Club Point Cook",
+        "StreetNo": "2",
+        "StreetName": "Main",
+        "StreetType": "Street",
+        "SuburbTown": "POINT COOK",
+        "Postcode": "3030",
+        "FaciltySportPlayedID": "26615",
+        "SportsPlayed": "Aerobics",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.735125,
+          -37.884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.661842",
+        "Y": "-37.898392",
+        "OBJECTID": "8913",
+        "Facility_ID": "WYNDHA8509",
+        "FacilityName": "In-Balance Fitness Werribee",
+        "StreetNo": "3",
+        "StreetName": "Manly",
+        "StreetType": "Street",
+        "SuburbTown": "WERRIBEE",
+        "Postcode": "3030",
+        "FaciltySportPlayedID": "26631",
+        "SportsPlayed": "Aerobics",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.661842,
+          -37.898392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.61474",
+        "Y": "-37.876367",
+        "OBJECTID": "8914",
+        "Facility_ID": "WYNDHA8513",
+        "FacilityName": "Manor Lake Fitness",
+        "StreetNo": "",
+        "StreetName": "Manor Lakes",
+        "StreetType": "Boulevard",
+        "SuburbTown": "WYNDHAM VALE",
+        "Postcode": "3024",
+        "FaciltySportPlayedID": "26642",
+        "SportsPlayed": "Aerobics",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.61474,
+          -37.876367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.72919",
+        "Y": "-37.871074",
+        "OBJECTID": "8915",
+        "Facility_ID": "WYNDHA8515",
+        "FacilityName": "My Gym Hoppers Crossing",
+        "StreetNo": "",
+        "StreetName": "Graham",
+        "StreetType": "Court",
+        "SuburbTown": "HOPPERS CROSSING",
+        "Postcode": "3029",
+        "FaciltySportPlayedID": "26650",
+        "SportsPlayed": "Aerobics",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.72919,
+          -37.871074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.717075",
+        "Y": "-37.872529",
+        "OBJECTID": "8916",
+        "Facility_ID": "WYNDHA8517",
+        "FacilityName": "Platinum Health Club Hoppers Crossing",
+        "StreetNo": "1",
+        "StreetName": "Motto",
+        "StreetType": "Court",
+        "SuburbTown": "HOPPERS CROSSING",
+        "Postcode": "3029",
+        "FaciltySportPlayedID": "26654",
+        "SportsPlayed": "Aerobics",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.717075,
+          -37.872529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.7465",
+        "Y": "-37.871958",
+        "OBJECTID": "8917",
+        "Facility_ID": "WYNDHA8520",
+        "FacilityName": "Re-Creation Health Club Point Cook",
+        "StreetNo": "22-30",
+        "StreetName": "Wallave",
+        "StreetType": "Avenue",
+        "SuburbTown": "POINT COOK",
+        "Postcode": "3030",
+        "FaciltySportPlayedID": "26663",
+        "SportsPlayed": "Aerobics",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7465,
+          -37.871958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.739994",
+        "Y": "-37.884435",
+        "OBJECTID": "8922",
+        "Facility_ID": "WYNDHA8498",
+        "FacilityName": "Dunnings Road Reserve",
+        "StreetNo": "",
+        "StreetName": "Dunnings",
+        "StreetType": "Road",
+        "SuburbTown": "POINT COOK",
+        "Postcode": "3030",
+        "FaciltySportPlayedID": "26608",
+        "SportsPlayed": "Australian Rules Football",
+        "NumberFieldCourts": "1",
+        "FieldSurfaceType": "Grass",
+        "FacilityAge": "6 - 10 Years",
+        "FacilityCondition": "3. Average",
+        "FacilityUpgradeAge": "6 - 10 Years",
+        "Changerooms": "Female, Male, Umpire/Officials",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.739994,
+          -37.884435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.677344",
+        "Y": "-37.836511",
+        "OBJECTID": "8924",
+        "Facility_ID": "WYNDHA10999",
+        "FacilityName": "Goddard Street Reserve",
+        "StreetNo": "",
+        "StreetName": "Goddard",
+        "StreetType": "Street",
+        "SuburbTown": "TARNEIT",
+        "Postcode": "3029",
+        "FaciltySportPlayedID": "26568",
+        "SportsPlayed": "Australian Rules Football",
+        "NumberFieldCourts": "2",
+        "FieldSurfaceType": "Grass",
+        "FacilityAge": "0 - 5 Years",
+        "FacilityCondition": "5. Very Good",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "Female, Male, Umpire/Officials, Unisex",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.677344,
+          -37.836511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.674132",
+        "Y": "-37.885029",
+        "OBJECTID": "8925",
+        "Facility_ID": "WYNDHA8506",
+        "FacilityName": "Heathdale Glen Orden Reserve",
+        "StreetNo": "",
+        "StreetName": "Kookaburra",
+        "StreetType": "Avenue",
+        "SuburbTown": "WERRIBEE",
+        "Postcode": "3030",
+        "FaciltySportPlayedID": "26624",
+        "SportsPlayed": "Australian Rules Football",
+        "NumberFieldCourts": "2",
+        "FieldSurfaceType": "Grass",
+        "FacilityAge": "26 - 50 Years",
+        "FacilityCondition": "4. Good",
+        "FacilityUpgradeAge": "< 1 Years",
+        "Changerooms": "Umpire/Officials, Unisex",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.674132,
+          -37.885029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.694398",
+        "Y": "-37.86262",
+        "OBJECTID": "8926",
+        "Facility_ID": "WYNDHA8507",
+        "FacilityName": "Hogans Road Reserve",
+        "StreetNo": "",
+        "StreetName": "Hogans",
+        "StreetType": "Road",
+        "SuburbTown": "HOPPERS CROSSING",
+        "Postcode": "3029",
+        "FaciltySportPlayedID": "26627",
+        "SportsPlayed": "Australian Rules Football",
+        "NumberFieldCourts": "2",
+        "FieldSurfaceType": "Grass",
+        "FacilityAge": "26 - 50 Years",
+        "FacilityCondition": "3. Average",
+        "FacilityUpgradeAge": "Upgrade in progress",
+        "Changerooms": "Umpire/Officials, Unisex",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.694398,
+          -37.86262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.60441",
+        "Y": "-37.875561",
+        "OBJECTID": "8927",
+        "Facility_ID": "WYNDHA11001",
+        "FacilityName": "Howqua Way Reserve",
+        "StreetNo": "",
+        "StreetName": "Howqua",
+        "StreetType": "Way",
+        "SuburbTown": "WYNDHAM VALE",
+        "Postcode": "3024",
+        "FaciltySportPlayedID": "26572",
+        "SportsPlayed": "Australian Rules Football",
+        "NumberFieldCourts": "1",
+        "FieldSurfaceType": "Grass",
+        "FacilityAge": "0 - 5 Years",
+        "FacilityCondition": "5. Very Good",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "Female, Male, Umpire/Officials, Unisex",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.60441,
+          -37.875561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.737757",
+        "Y": "-37.907501",
+        "OBJECTID": "8930",
+        "Facility_ID": "WYNDHA11002",
+        "FacilityName": "Prudence Parade Reserve",
+        "StreetNo": "",
+        "StreetName": "Prudence",
+        "StreetType": "Parade",
+        "SuburbTown": "POINT COOK",
+        "Postcode": "3030",
+        "FaciltySportPlayedID": "26574",
+        "SportsPlayed": "Australian Rules Football",
+        "NumberFieldCourts": "1",
+        "FieldSurfaceType": "Grass",
+        "FacilityAge": "0 - 5 Years",
+        "FacilityCondition": "5. Very Good",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "Female, Male, Umpire/Officials, Unisex",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.737757,
+          -37.907501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.666933",
+        "Y": "-37.905382",
+        "OBJECTID": "8933",
+        "Facility_ID": "WYNDHA8524",
+        "FacilityName": "Soldiers Reserve",
+        "StreetNo": "",
+        "StreetName": "College",
+        "StreetType": "Road",
+        "SuburbTown": "WERRIBEE",
+        "Postcode": "3030",
+        "FaciltySportPlayedID": "26672",
+        "SportsPlayed": "Australian Rules Football",
+        "NumberFieldCourts": "1",
+        "FieldSurfaceType": "Grass",
+        "FacilityAge": "26 - 50 Years",
+        "FacilityCondition": "4. Good",
+        "FacilityUpgradeAge": "1 - 5 Years",
+        "Changerooms": "Umpire/Officials, Unisex",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.666933,
+          -37.905382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.688805",
+        "Y": "-37.885037",
+        "OBJECTID": "8934",
+        "Facility_ID": "WYNDHA8527",
+        "FacilityName": "Warringa Crescent Reserve",
+        "StreetNo": "",
+        "StreetName": "Warringa",
+        "StreetType": "Crescent",
+        "SuburbTown": "HOPPERS CROSSING",
+        "Postcode": "3029",
+        "FaciltySportPlayedID": "26678",
+        "SportsPlayed": "Australian Rules Football",
+        "NumberFieldCourts": "1",
+        "FieldSurfaceType": "Grass",
+        "FacilityAge": "11 - 25 Years",
+        "FacilityCondition": "4. Good",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "Female, Male, Unisex",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.688805,
+          -37.885037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.729621",
+        "Y": "-37.900012",
+        "OBJECTID": "8935",
+        "Facility_ID": "WYNDHA11005",
+        "FacilityName": "Windorah Drive Reserve",
+        "StreetNo": "",
+        "StreetName": "Windorah",
+        "StreetType": "Drive",
+        "SuburbTown": "POINT COOK",
+        "Postcode": "3030",
+        "FaciltySportPlayedID": "26584",
+        "SportsPlayed": "Australian Rules Football",
+        "NumberFieldCourts": "1",
+        "FieldSurfaceType": "Grass",
+        "FacilityAge": "0 - 5 Years",
+        "FacilityCondition": "5. Very Good",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "Female, Male, Umpire/Officials, Unisex",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.729621,
+          -37.900012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.624357",
+        "Y": "-37.899304",
+        "OBJECTID": "8937",
+        "Facility_ID": "WYNDHA8534",
+        "FacilityName": "Wyndham Vale Reserve",
+        "StreetNo": "",
+        "StreetName": "Honour",
+        "StreetType": "Avenue",
+        "SuburbTown": "WYNDHAM VALE",
+        "Postcode": "3024",
+        "FaciltySportPlayedID": "26695",
+        "SportsPlayed": "Australian Rules Football",
+        "NumberFieldCourts": "1",
+        "FieldSurfaceType": "Grass",
+        "FacilityAge": "11 - 25 Years",
+        "FacilityCondition": "3. Average",
+        "FacilityUpgradeAge": "1 - 5 Years",
+        "Changerooms": "Umpire/Officials, Unisex",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.624357,
+          -37.899304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.623519",
+        "Y": "-37.900235",
+        "OBJECTID": "8938",
+        "Facility_ID": "WYNDHA11007",
+        "FacilityName": "Wyndham Vale South Reserve",
+        "StreetNo": "",
+        "StreetName": "Black Forest",
+        "StreetType": "Road",
+        "SuburbTown": "WERRIBEE",
+        "Postcode": "3030",
+        "FaciltySportPlayedID": "26589",
+        "SportsPlayed": "Australian Rules Football",
+        "NumberFieldCourts": "2",
+        "FieldSurfaceType": "Grass",
+        "FacilityAge": "0 - 5 Years",
+        "FacilityCondition": "5. Very Good",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "Female, Male, Umpire/Officials, Unisex",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.623519,
+          -37.900235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.719874",
+        "Y": "-37.869807",
+        "OBJECTID": "8946",
+        "Facility_ID": "WYNDHA8493",
+        "FacilityName": "BoxingFit Hoppers Crossing",
+        "StreetNo": "75-85",
+        "StreetName": "Elm Park",
+        "StreetType": "Drive",
+        "SuburbTown": "HOPPERS CROSSING",
+        "Postcode": "3029",
+        "FaciltySportPlayedID": "26595",
+        "SportsPlayed": "Boxing",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.719874,
+          -37.869807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.627805",
+        "Y": "-37.902769",
+        "OBJECTID": "8974",
+        "Facility_ID": "WYNDHA8504",
+        "FacilityName": "Gordon O'Keefe Reserve",
+        "StreetNo": "",
+        "StreetName": "Black Forest",
+        "StreetType": "Road",
+        "SuburbTown": "WERRIBEE",
+        "Postcode": "3030",
+        "FaciltySportPlayedID": "26621",
+        "SportsPlayed": "Equestrian",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.627805,
+          -37.902769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.680757",
+        "Y": "-37.87829",
+        "OBJECTID": "8988",
+        "Facility_ID": "WYNDHA8525",
+        "FacilityName": "Victorian University Fitness Centres",
+        "StreetNo": "",
+        "StreetName": "Hoppers",
+        "StreetType": "Lane",
+        "SuburbTown": "WERRIBEE",
+        "Postcode": "3030",
+        "FaciltySportPlayedID": "26674",
+        "SportsPlayed": "Fitness / Gymnasium Workouts",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.680757,
+          -37.87829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.671747",
+        "Y": "-37.938135",
+        "OBJECTID": "8992",
+        "Facility_ID": "WYNDHA8529",
+        "FacilityName": "Werribee Park Golf Club",
+        "StreetNo": "",
+        "StreetName": "K",
+        "StreetType": "Road",
+        "SuburbTown": "WERRIBEE",
+        "Postcode": "3030",
+        "FaciltySportPlayedID": "26681",
+        "SportsPlayed": "Golf",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "18 Hole Course - Public",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.671747,
+          -37.938135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.723385",
+        "Y": "-37.874099",
+        "OBJECTID": "8993",
+        "Facility_ID": "WYNDHA11477",
+        "FacilityName": "Gym Monkeys",
+        "StreetNo": "3",
+        "StreetName": "Shaft",
+        "StreetType": "Court",
+        "SuburbTown": "HOPPERS CROSSING",
+        "Postcode": "3029",
+        "FaciltySportPlayedID": "27378",
+        "SportsPlayed": "Gymnastics",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.723385,
+          -37.874099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.728917",
+        "Y": "-37.871781",
+        "OBJECTID": "8994",
+        "Facility_ID": "WYNDHA11478",
+        "FacilityName": "Resilience Gymnastic",
+        "StreetNo": "15",
+        "StreetName": "Graham",
+        "StreetType": "Court",
+        "SuburbTown": "HOPPERS CROSSING",
+        "Postcode": "3029",
+        "FaciltySportPlayedID": "27379",
+        "SportsPlayed": "Gymnastics",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.728917,
+          -37.871781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.658592",
+        "Y": "-37.915129",
+        "OBJECTID": "8995",
+        "Facility_ID": "WYNDHA11522",
+        "FacilityName": "Werribee Gymnastic Club",
+        "StreetNo": "52",
+        "StreetName": "Riverside",
+        "StreetType": "Avenue",
+        "SuburbTown": "WERRIBEE",
+        "Postcode": "3030",
+        "FaciltySportPlayedID": "27380",
+        "SportsPlayed": "Gymnastics",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.658592,
+          -37.915129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.651117",
+        "Y": "-37.905445",
+        "OBJECTID": "8998",
+        "Facility_ID": "WYNDHA4281",
+        "FacilityName": "Werribee RSL Bowls Club",
+        "StreetNo": "",
+        "StreetName": "Watton",
+        "StreetType": "Street",
+        "SuburbTown": "WERRIBEE",
+        "Postcode": "3030",
+        "FaciltySportPlayedID": "26751",
+        "SportsPlayed": "Lawn Bowls",
+        "NumberFieldCourts": "3",
+        "FieldSurfaceType": "Artificial Turf, Grass",
+        "FacilityAge": "",
+        "FacilityCondition": "4. Good",
+        "FacilityUpgradeAge": "1 - 5 Years",
+        "Changerooms": "Female, Male",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.651117,
+          -37.905445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.836154",
+        "Y": "-37.79601",
+        "OBJECTID": "1384",
+        "Facility_ID": "BRIMBA8361",
+        "FacilityName": "JR Parsons Reserve",
+        "StreetNo": "",
+        "StreetName": "Stanford",
+        "StreetType": "Street",
+        "SuburbTown": "SUNSHINE",
+        "Postcode": "3020",
+        "FaciltySportPlayedID": "26343",
+        "SportsPlayed": "Athletics",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.836154,
+          -37.79601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.855205",
+        "Y": "-37.714786",
+        "OBJECTID": "1385",
+        "Facility_ID": "BRIMBA8369",
+        "FacilityName": "Keilor Park Recreational Reserve",
+        "StreetNo": "",
+        "StreetName": "Stadium",
+        "StreetType": "Drive",
+        "SuburbTown": "KEILOR PARK",
+        "Postcode": "3042",
+        "FaciltySportPlayedID": "26354",
+        "SportsPlayed": "Athletics",
+        "NumberFieldCourts": "1",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.855205,
+          -37.714786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.795845",
+        "Y": "-37.773301",
+        "OBJECTID": "1386",
+        "Facility_ID": "BRIMBA8381",
+        "FacilityName": "Moore Park",
+        "StreetNo": "",
+        "StreetName": "Esmond",
+        "StreetType": "Street",
+        "SuburbTown": "DEER PARK",
+        "Postcode": "3023",
+        "FaciltySportPlayedID": "26381",
+        "SportsPlayed": "Athletics",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.795845,
+          -37.773301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.774164",
+        "Y": "-37.764036",
+        "OBJECTID": "1387",
+        "Facility_ID": "BRIMBA8391",
+        "FacilityName": "Sassella Park",
+        "StreetNo": "",
+        "StreetName": "Station",
+        "StreetType": "Road",
+        "SuburbTown": "DEER PARK",
+        "Postcode": "3023",
+        "FaciltySportPlayedID": "26393",
+        "SportsPlayed": "Athletics",
+        "NumberFieldCourts": "1",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.774164,
+          -37.764036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.800896",
+        "Y": "-37.7868",
+        "OBJECTID": "1388",
+        "Facility_ID": "BRIMBA8324",
+        "FacilityName": "Ainsworth Reserve",
+        "StreetNo": "",
+        "StreetName": "Glengala",
+        "StreetType": "Road",
+        "SuburbTown": "SUNSHINE",
+        "Postcode": "3020",
+        "FaciltySportPlayedID": "26286",
+        "SportsPlayed": "Australian Rules Football",
+        "NumberFieldCourts": "1",
+        "FieldSurfaceType": "Grass",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.800896,
+          -37.7868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.793563",
+        "Y": "-37.758821",
+        "OBJECTID": "1389",
+        "Facility_ID": "BRIMBA8335",
+        "FacilityName": "Cairnlea Park",
+        "StreetNo": "",
+        "StreetName": "Furlong",
+        "StreetType": "Road",
+        "SuburbTown": "CAIRNLEA",
+        "Postcode": "3023",
+        "FaciltySportPlayedID": "26301",
+        "SportsPlayed": "Australian Rules Football",
+        "NumberFieldCourts": "1",
+        "FieldSurfaceType": "Grass",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.793563,
+          -37.758821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.777832",
+        "Y": "-37.771846",
+        "OBJECTID": "1390",
+        "Facility_ID": "BRIMBA8344",
+        "FacilityName": "Deer Park Reserve",
+        "StreetNo": "",
+        "StreetName": "Ballarat",
+        "StreetType": "Road",
+        "SuburbTown": "DEER PARK",
+        "Postcode": "3023",
+        "FaciltySportPlayedID": "26313",
+        "SportsPlayed": "Australian Rules Football",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "Grass",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.777832,
+          -37.771846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.7741",
+        "Y": "-37.7164",
+        "OBJECTID": "1391",
+        "Facility_ID": "BRIMBA8345",
+        "FacilityName": "Delahey Recreation Reserve",
+        "StreetNo": "",
+        "StreetName": "Goldsmith",
+        "StreetType": "Avenue",
+        "SuburbTown": "DELAHEY",
+        "Postcode": "3037",
+        "FaciltySportPlayedID": "26315",
+        "SportsPlayed": "Australian Rules Football",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "Grass",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7741,
+          -37.7164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.837725",
+        "Y": "-37.775225",
+        "OBJECTID": "1392",
+        "Facility_ID": "BRIMBA8346",
+        "FacilityName": "Dempster Park",
+        "StreetNo": "",
+        "StreetName": "Phoenix",
+        "StreetType": "Street",
+        "SuburbTown": "SUNSHINE",
+        "Postcode": "3020",
+        "FaciltySportPlayedID": "26318",
+        "SportsPlayed": "Australian Rules Football",
+        "NumberFieldCourts": "1",
+        "FieldSurfaceType": "Grass",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.837725,
+          -37.775225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.803277",
+        "Y": "-37.745542",
+        "OBJECTID": "1393",
+        "Facility_ID": "BRIMBA8348",
+        "FacilityName": "Errington Reserve",
+        "StreetNo": "",
+        "StreetName": "Percy",
+        "StreetType": "Street",
+        "SuburbTown": "ST ALBANS",
+        "Postcode": "3021",
+        "FaciltySportPlayedID": "26322",
+        "SportsPlayed": "Australian Rules Football",
+        "NumberFieldCourts": "1",
+        "FieldSurfaceType": "Grass",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.803277,
+          -37.745542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.818828",
+        "Y": "-37.725518",
+        "OBJECTID": "1394",
+        "Facility_ID": "BRIMBA8355",
+        "FacilityName": "Green Gully Reserve",
+        "StreetNo": "",
+        "StreetName": "Green Gully",
+        "StreetType": "Road",
+        "SuburbTown": "KEILOR",
+        "Postcode": "3036",
+        "FaciltySportPlayedID": "26331",
+        "SportsPlayed": "Australian Rules Football",
+        "NumberFieldCourts": "1",
+        "FieldSurfaceType": "Grass",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.818828,
+          -37.725518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.777673",
+        "Y": "-37.771918",
+        "OBJECTID": "1395",
+        "Facility_ID": "BRIMBA8360",
+        "FacilityName": "John McLeod Reserve",
+        "StreetNo": "",
+        "StreetName": "Hume",
+        "StreetType": "Street",
+        "SuburbTown": "DEER PARK",
+        "Postcode": "3023",
+        "FaciltySportPlayedID": "26341",
+        "SportsPlayed": "Australian Rules Football",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "Grass",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.777673,
+          -37.771918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.832595",
+        "Y": "-37.717403",
+        "OBJECTID": "1398",
+        "Facility_ID": "BRIMBA8371",
+        "FacilityName": "Keilor Recreation Reserve",
+        "StreetNo": "",
+        "StreetName": "Old Calder",
+        "StreetType": "Highway",
+        "SuburbTown": "KEILOR",
+        "Postcode": "3036",
+        "FaciltySportPlayedID": "26362",
+        "SportsPlayed": "Australian Rules Football",
+        "NumberFieldCourts": "1",
+        "FieldSurfaceType": "Grass",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.832595,
+          -37.717403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.793504",
+        "Y": "-37.758816",
+        "OBJECTID": "1399",
+        "Facility_ID": "BRIMBA8372",
+        "FacilityName": "Kevin Flint Reserve",
+        "StreetNo": "",
+        "StreetName": "Furlong",
+        "StreetType": "Road",
+        "SuburbTown": "CAIRNLEA",
+        "Postcode": "3023",
+        "FaciltySportPlayedID": "26365",
+        "SportsPlayed": "Australian Rules Football",
+        "NumberFieldCourts": "1",
+        "FieldSurfaceType": "Grass",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.793504,
+          -37.758816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.776658",
+        "Y": "-37.732765",
+        "OBJECTID": "1400",
+        "Facility_ID": "BRIMBA8375",
+        "FacilityName": "Kings Park",
+        "StreetNo": "",
+        "StreetName": "Gillespie",
+        "StreetType": "Road",
+        "SuburbTown": "ST ALBANS",
+        "Postcode": "3021",
+        "FaciltySportPlayedID": "26370",
+        "SportsPlayed": "Australian Rules Football",
+        "NumberFieldCourts": "1",
+        "FieldSurfaceType": "Grass",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.776658,
+          -37.732765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.791658",
+        "Y": "-37.708386",
+        "OBJECTID": "1401",
+        "Facility_ID": "BRIMBA8377",
+        "FacilityName": "Lionheart Reserve",
+        "StreetNo": "",
+        "StreetName": "Lionheart",
+        "StreetType": "Avenue",
+        "SuburbTown": "TAYLORS LAKES",
+        "Postcode": "3038",
+        "FaciltySportPlayedID": "26374",
+        "SportsPlayed": "Australian Rules Football",
+        "NumberFieldCourts": "2",
+        "FieldSurfaceType": "Grass",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.791658,
+          -37.708386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.77654",
+        "Y": "-37.754068",
+        "OBJECTID": "1402",
+        "Facility_ID": "BRIMBA8389",
+        "FacilityName": "Robert Bruce Reserve",
+        "StreetNo": "",
+        "StreetName": "Gould",
+        "StreetType": "Street",
+        "SuburbTown": "DEER PARK",
+        "Postcode": "3023",
+        "FaciltySportPlayedID": "26390",
+        "SportsPlayed": "Australian Rules Football",
+        "NumberFieldCourts": "1",
+        "FieldSurfaceType": "Grass",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.77654,
+          -37.754068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.814164",
+        "Y": "-37.781765",
+        "OBJECTID": "1403",
+        "Facility_ID": "BRIMBA8392",
+        "FacilityName": "Selwyn Park",
+        "StreetNo": "",
+        "StreetName": "Selwyn",
+        "StreetType": "Street",
+        "SuburbTown": "ALBION",
+        "Postcode": "3020",
+        "FaciltySportPlayedID": "26395",
+        "SportsPlayed": "Australian Rules Football",
+        "NumberFieldCourts": "1",
+        "FieldSurfaceType": "Grass",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.814164,
+          -37.781765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.811911",
+        "Y": "-37.799758",
+        "OBJECTID": "1404",
+        "Facility_ID": "BRIMBA8403",
+        "FacilityName": "Tallintyre Reserve",
+        "StreetNo": "",
+        "StreetName": "Kermeen",
+        "StreetType": "Street",
+        "SuburbTown": "SUNSHINE",
+        "Postcode": "3020",
+        "FaciltySportPlayedID": "26415",
+        "SportsPlayed": "Australian Rules Football",
+        "NumberFieldCourts": "1",
+        "FieldSurfaceType": "Grass",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.811911,
+          -37.799758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.825909",
+        "Y": "-37.781009",
+        "OBJECTID": "1405",
+        "Facility_ID": "BRIMBA8329",
+        "FacilityName": "Barclay Reserve",
+        "StreetNo": "",
+        "StreetName": "Talmage",
+        "StreetType": "Street",
+        "SuburbTown": "ALBION",
+        "Postcode": "3020",
+        "FaciltySportPlayedID": "26295",
+        "SportsPlayed": "Baseball",
+        "NumberFieldCourts": "1",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.825909,
+          -37.781009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.784559",
+        "Y": "-37.740071",
+        "OBJECTID": "1406",
+        "Facility_ID": "BRIMBA8332",
+        "FacilityName": "Brimbank College",
+        "StreetNo": "",
+        "StreetName": "Jamieson",
+        "StreetType": "Street",
+        "SuburbTown": "ST ALBANS",
+        "Postcode": "3021",
+        "FaciltySportPlayedID": "26298",
+        "SportsPlayed": "Basketball",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.784559,
+          -37.740071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.848237",
+        "Y": "-37.713334",
+        "OBJECTID": "1407",
+        "Facility_ID": "BRIMBA8364",
+        "FacilityName": "Keilor Basketball Stadium",
+        "StreetNo": "",
+        "StreetName": "Stadium",
+        "StreetType": "Drive",
+        "SuburbTown": "KEILOR PARK",
+        "Postcode": "3042",
+        "FaciltySportPlayedID": "26348",
+        "SportsPlayed": "Basketball",
+        "NumberFieldCourts": "3",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.848237,
+          -37.713334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.760113",
+        "Y": "-37.702404",
+        "OBJECTID": "1408",
+        "Facility_ID": "BRIMBA8402",
+        "FacilityName": "Sydenham Primary School",
+        "StreetNo": "",
+        "StreetName": "Community",
+        "StreetType": "Hub",
+        "SuburbTown": "SYDENHAM",
+        "Postcode": "3037",
+        "FaciltySportPlayedID": "26414",
+        "SportsPlayed": "Basketball",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.760113,
+          -37.702404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.812193",
+        "Y": "-37.798696",
+        "OBJECTID": "1409",
+        "Facility_ID": "BRIMBA8407",
+        "FacilityName": "West Sunshine Community Centre",
+        "StreetNo": "25",
+        "StreetName": "Kermeen",
+        "StreetType": "Street",
+        "SuburbTown": "SUNSHINE",
+        "Postcode": "3020",
+        "FaciltySportPlayedID": "26421",
+        "SportsPlayed": "Basketball",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.812193,
+          -37.798696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.837251",
+        "Y": "-37.73029",
+        "OBJECTID": "1410",
+        "Facility_ID": "BRIMBA8333",
+        "FacilityName": "Brimbank Park",
+        "StreetNo": "",
+        "StreetName": "Keilor Park",
+        "StreetType": "Drive",
+        "SuburbTown": "KEILOR",
+        "Postcode": "3036",
+        "FaciltySportPlayedID": "26299",
+        "SportsPlayed": "BMX",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.837251,
+          -37.73029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.810941",
+        "Y": "-37.770928",
+        "OBJECTID": "1411",
+        "Facility_ID": "BRIMBA8336",
+        "FacilityName": "Carrington Reserve",
+        "StreetNo": "",
+        "StreetName": "Carrington",
+        "StreetType": "Drive",
+        "SuburbTown": "ALBION",
+        "Postcode": "3020",
+        "FaciltySportPlayedID": "26303",
+        "SportsPlayed": "BMX",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.810941,
+          -37.770928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.843339",
+        "Y": "-37.783767",
+        "OBJECTID": "1414",
+        "Facility_ID": "BRIMBA8379",
+        "FacilityName": "Max Bowman Gymnasium",
+        "StreetNo": "10",
+        "StreetName": "Dorothy",
+        "StreetType": "Avenue",
+        "SuburbTown": "SUNSHINE",
+        "Postcode": "3020",
+        "FaciltySportPlayedID": "26379",
+        "SportsPlayed": "Boxing",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.843339,
+          -37.783767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.808299",
+        "Y": "-37.717249",
+        "OBJECTID": "1415",
+        "Facility_ID": "BRIMBA8367",
+        "FacilityName": "Keilor Downs Primary School",
+        "StreetNo": "",
+        "StreetName": "Swindon",
+        "StreetType": "Crescent",
+        "SuburbTown": "KEILOR DOWNS",
+        "Postcode": "3038",
+        "FaciltySportPlayedID": "26352",
+        "SportsPlayed": "Callisthenics",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.808299,
+          -37.717249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.810649",
+        "Y": "-37.742532",
+        "OBJECTID": "1416",
+        "Facility_ID": "BRIMBA8395",
+        "FacilityName": "St Albans East Primary School",
+        "StreetNo": "",
+        "StreetName": "Station",
+        "StreetType": "Avenue",
+        "SuburbTown": "ST ALBANS",
+        "Postcode": "3021",
+        "FaciltySportPlayedID": "26405",
+        "SportsPlayed": "Callisthenics",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.810649,
+          -37.742532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.823844",
+        "Y": "-37.797168",
+        "OBJECTID": "1418",
+        "Facility_ID": "BRIMBA8327",
+        "FacilityName": "Arthur Beachley Reserve",
+        "StreetNo": "",
+        "StreetName": "Ardoyne",
+        "StreetType": "Street",
+        "SuburbTown": "SUNSHINE",
+        "Postcode": "3020",
+        "FaciltySportPlayedID": "26291",
+        "SportsPlayed": "Cricket",
+        "NumberFieldCourts": "1",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.823844,
+          -37.797168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.765845",
+        "Y": "-37.791913",
+        "OBJECTID": "1419",
+        "Facility_ID": "BRIMBA8328",
+        "FacilityName": "Balmoral Park Reserve",
+        "StreetNo": "",
+        "StreetName": "Windsor",
+        "StreetType": "Boulevard",
+        "SuburbTown": "DERRIMUT",
+        "Postcode": "3030",
+        "FaciltySportPlayedID": "26293",
+        "SportsPlayed": "Cricket",
+        "NumberFieldCourts": "2",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.765845,
+          -37.791913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.763948",
+        "Y": "-37.774227",
+        "OBJECTID": "1420",
+        "Facility_ID": "BRIMBA8331",
+        "FacilityName": "Bon Thomas Reserve",
+        "StreetNo": "",
+        "StreetName": "Bayliss",
+        "StreetType": "Road",
+        "SuburbTown": "DEER PARK",
+        "Postcode": "3023",
+        "FaciltySportPlayedID": "26297",
+        "SportsPlayed": "Cricket",
+        "NumberFieldCourts": "2",
+        "FieldSurfaceType": "Synthetic Pitch",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.763948,
+          -37.774227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.774144",
+        "Y": "-37.745439",
+        "OBJECTID": "1424",
+        "Facility_ID": "BRIMBA8347",
+        "FacilityName": "Diamond Reserve",
+        "StreetNo": "",
+        "StreetName": "Diamond",
+        "StreetType": "Avenue",
+        "SuburbTown": "ALBANVALE",
+        "Postcode": "3021",
+        "FaciltySportPlayedID": "26321",
+        "SportsPlayed": "Cricket",
+        "NumberFieldCourts": "1",
+        "FieldSurfaceType": "Synthetic Pitch",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.774144,
+          -37.745439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.822827",
+        "Y": "-37.764186",
+        "OBJECTID": "1434",
+        "Facility_ID": "BRIMBA8378",
+        "FacilityName": "Loyd Reserve",
+        "StreetNo": "",
+        "StreetName": "Lurg",
+        "StreetType": "Avenue",
+        "SuburbTown": "ST ALBANS",
+        "Postcode": "3021",
+        "FaciltySportPlayedID": "26377",
+        "SportsPlayed": "Cricket",
+        "NumberFieldCourts": "1",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.822827,
+          -37.764186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.774682",
+        "Y": "-37.773404",
+        "OBJECTID": "1437",
+        "Facility_ID": "BRIMBA8342",
+        "FacilityName": "Deer Park Hall",
+        "StreetNo": "50",
+        "StreetName": "Station",
+        "StreetType": "Road",
+        "SuburbTown": "DEER PARK",
+        "Postcode": "3023",
+        "FaciltySportPlayedID": "26310",
+        "SportsPlayed": "Dancing",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.774682,
+          -37.773404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.816638",
+        "Y": "-37.790274",
+        "OBJECTID": "1438",
+        "Facility_ID": "BRIMBA8354",
+        "FacilityName": "Glengala Community Centre",
+        "StreetNo": "",
+        "StreetName": "Glengala",
+        "StreetType": "Road",
+        "SuburbTown": "SUNSHINE",
+        "Postcode": "3020",
+        "FaciltySportPlayedID": "26330",
+        "SportsPlayed": "Dancing",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.816638,
+          -37.790274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.833525",
+        "Y": "-37.719093",
+        "OBJECTID": "1439",
+        "Facility_ID": "BRIMBA8382",
+        "FacilityName": "Old Shire Hall",
+        "StreetNo": "",
+        "StreetName": "Old Calder",
+        "StreetType": "Highway",
+        "SuburbTown": "KEILOR",
+        "Postcode": "3036",
+        "FaciltySportPlayedID": "26383",
+        "SportsPlayed": "Dancing",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.833525,
+          -37.719093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.815068",
+        "Y": "-37.745952",
+        "OBJECTID": "1440",
+        "Facility_ID": "BRIMBA8394",
+        "FacilityName": "St Albans Community Youth Club",
+        "StreetNo": "",
+        "StreetName": "Main",
+        "StreetType": "Road East",
+        "SuburbTown": "ST ALBANS",
+        "Postcode": "3021",
+        "FaciltySportPlayedID": "26401",
+        "SportsPlayed": "Dancing",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.815068,
+          -37.745952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.8272",
+        "Y": "-37.740183",
+        "OBJECTID": "1441",
+        "Facility_ID": "BRIMBA8405",
+        "FacilityName": "Urban Force Studio",
+        "StreetNo": "",
+        "StreetName": "Sunshine",
+        "StreetType": "Avenue",
+        "SuburbTown": "KEALBA",
+        "Postcode": "3021",
+        "FaciltySportPlayedID": "26418",
+        "SportsPlayed": "Dancing",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8272,
+          -37.740183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.780034",
+        "Y": "-37.737296",
+        "OBJECTID": "1442",
+        "Facility_ID": "BRIMBA8408",
+        "FacilityName": "Westvale Community Centre",
+        "StreetNo": "",
+        "StreetName": "Kings",
+        "StreetType": "Road",
+        "SuburbTown": "ST ALBANS",
+        "Postcode": "3021",
+        "FaciltySportPlayedID": "26425",
+        "SportsPlayed": "Dancing",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.780034,
+          -37.737296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.806626",
+        "Y": "-37.72728",
+        "OBJECTID": "1443",
+        "Facility_ID": "BRIMBA5539",
+        "FacilityName": "Anytime Fitness Keilor Downs",
+        "StreetNo": "80",
+        "StreetName": "Taylors",
+        "StreetType": "Road",
+        "SuburbTown": "KEILOR DOWNS",
+        "Postcode": "3038",
+        "FaciltySportPlayedID": "27883",
+        "SportsPlayed": "Fitness / Gymnasium Workouts",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.806626,
+          -37.72728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.80018",
+        "Y": "-37.747165",
+        "OBJECTID": "1444",
+        "Facility_ID": "BRIMBA8334",
+        "FacilityName": "Brimbank Sports Centre",
+        "StreetNo": "",
+        "StreetName": "McKechnie",
+        "StreetType": "Street",
+        "SuburbTown": "ST ALBANS",
+        "Postcode": "3021",
+        "FaciltySportPlayedID": "26300",
+        "SportsPlayed": "Fitness / Gymnasium Workouts",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.80018,
+          -37.747165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.774151",
+        "Y": "-37.700147",
+        "OBJECTID": "1446",
+        "Facility_ID": "BRIMBA8349",
+        "FacilityName": "Fenix Fitness Taylors Lakes",
+        "StreetNo": "399",
+        "StreetName": "Melton",
+        "StreetType": "Highway",
+        "SuburbTown": "TAYLORS LAKES",
+        "Postcode": "3038",
+        "FaciltySportPlayedID": "26325",
+        "SportsPlayed": "Fitness / Gymnasium Workouts",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.774151,
+          -37.700147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.767025",
+        "Y": "-37.695334",
+        "OBJECTID": "1447",
+        "Facility_ID": "BRIMBA8350",
+        "FacilityName": "Fernwood Gym",
+        "StreetNo": "511/521",
+        "StreetName": "Melton",
+        "StreetType": "Highway",
+        "SuburbTown": "SYDENHAM",
+        "Postcode": "3037",
+        "FaciltySportPlayedID": "26326",
+        "SportsPlayed": "Fitness / Gymnasium Workouts",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.767025,
+          -37.695334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.774459",
+        "Y": "-37.700632",
+        "OBJECTID": "1450",
+        "Facility_ID": "BRIMBA5538",
+        "FacilityName": "Goodlife Health Clubs Taylors Lakes",
+        "StreetNo": "399",
+        "StreetName": "Melton",
+        "StreetType": "Highway",
+        "SuburbTown": "TAYLORS LAKES",
+        "Postcode": "3038",
+        "FaciltySportPlayedID": "27882",
+        "SportsPlayed": "Fitness / Gymnasium Workouts",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.774459,
+          -37.700632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.796567",
+        "Y": "-37.744148",
+        "OBJECTID": "1451",
+        "Facility_ID": "BRIMBA8357",
+        "FacilityName": "Health Club 101",
+        "StreetNo": "101",
+        "StreetName": "Main",
+        "StreetType": "Road West",
+        "SuburbTown": "ST ALBANS",
+        "Postcode": "3021",
+        "FaciltySportPlayedID": "26337",
+        "SportsPlayed": "Fitness / Gymnasium Workouts",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.796567,
+          -37.744148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.789464",
+        "Y": "-37.707826",
+        "OBJECTID": "1452",
+        "Facility_ID": "BRIMBA8362",
+        "FacilityName": "Kaye's Unique Toning",
+        "StreetNo": "",
+        "StreetName": "Sceptre",
+        "StreetType": "Court",
+        "SuburbTown": "TAYLORS LAKES",
+        "Postcode": "3038",
+        "FaciltySportPlayedID": "26347",
+        "SportsPlayed": "Fitness / Gymnasium Workouts",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.789464,
+          -37.707826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.767008",
+        "Y": "-37.695258",
+        "OBJECTID": "1453",
+        "Facility_ID": "BRIMBA8374",
+        "FacilityName": "Kieser Training",
+        "StreetNo": "15/17",
+        "StreetName": "Overton Lea",
+        "StreetType": "Boulevard",
+        "SuburbTown": "SYDENHAM",
+        "Postcode": "3037",
+        "FaciltySportPlayedID": "26369",
+        "SportsPlayed": "Fitness / Gymnasium Workouts",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.767008,
+          -37.695258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.79779",
+        "Y": "-37.701702",
+        "OBJECTID": "1454",
+        "Facility_ID": "BRIMBA5541",
+        "FacilityName": "Kore Wellness & Swim School",
+        "StreetNo": "7",
+        "StreetName": "Melton",
+        "StreetType": "Highway",
+        "SuburbTown": "TAYLORS LAKES",
+        "Postcode": "3038",
+        "FaciltySportPlayedID": "27885",
+        "SportsPlayed": "Fitness / Gymnasium Workouts",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "Female, Male",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.79779,
+          -37.701702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.827799",
+        "Y": "-37.780525",
+        "OBJECTID": "1455",
+        "Facility_ID": "BRIMBA8386",
+        "FacilityName": "Platinum Health & Pilates",
+        "StreetNo": "151",
+        "StreetName": "Anderson",
+        "StreetType": "Street",
+        "SuburbTown": "SUNSHINE",
+        "Postcode": "3020",
+        "FaciltySportPlayedID": "26387",
+        "SportsPlayed": "Fitness / Gymnasium Workouts",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.827799,
+          -37.780525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.789894",
+        "Y": "-37.79186",
+        "OBJECTID": "1456",
+        "Facility_ID": "BRIMBA5533",
+        "FacilityName": "Run With Me Fitness Club Sunshine West",
+        "StreetNo": "42746",
+        "StreetName": "David",
+        "StreetType": "Drive",
+        "SuburbTown": "SUNSHINE WEST",
+        "Postcode": "3020",
+        "FaciltySportPlayedID": "27876",
+        "SportsPlayed": "Fitness / Gymnasium Workouts",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.789894,
+          -37.79186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.833454",
+        "Y": "-37.787273",
+        "OBJECTID": "1457",
+        "Facility_ID": "BRIMBA8390",
+        "FacilityName": "Samurai Karate Sunshine",
+        "StreetNo": "54A",
+        "StreetName": "Station",
+        "StreetType": "Place",
+        "SuburbTown": "SUNSHINE",
+        "Postcode": "3020",
+        "FaciltySportPlayedID": "27877",
+        "SportsPlayed": "Fitness / Gymnasium Workouts",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.833454,
+          -37.787273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.798147",
+        "Y": "-37.752777",
+        "OBJECTID": "1458",
+        "Facility_ID": "BRIMBA8393",
+        "FacilityName": "St Albans Campus Fitness Centre",
+        "StreetNo": "",
+        "StreetName": "McKechnie",
+        "StreetType": "Street",
+        "SuburbTown": "ST ALBANS",
+        "Postcode": "3021",
+        "FaciltySportPlayedID": "26399",
+        "SportsPlayed": "Fitness / Gymnasium Workouts",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.798147,
+          -37.752777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.804954",
+        "Y": "-37.728203",
+        "OBJECTID": "1459",
+        "Facility_ID": "BRIMBA8396",
+        "FacilityName": "St Albans Leisure Centre",
+        "StreetNo": "90",
+        "StreetName": "Taylors",
+        "StreetType": "Road",
+        "SuburbTown": "ST ALBANS",
+        "Postcode": "3021",
+        "FaciltySportPlayedID": "26406",
+        "SportsPlayed": "Fitness / Gymnasium Workouts",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.804954,
+          -37.728203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.835023",
+        "Y": "-37.784577",
+        "OBJECTID": "1460",
+        "Facility_ID": "BRIMBA8401",
+        "FacilityName": "Sunshine Swim & Leisure Centre",
+        "StreetNo": "5",
+        "StreetName": "Kennedy",
+        "StreetType": "Street",
+        "SuburbTown": "SUNSHINE",
+        "Postcode": "3020",
+        "FaciltySportPlayedID": "26412",
+        "SportsPlayed": "Fitness / Gymnasium Workouts",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.835023,
+          -37.784577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.80096",
+        "Y": "-37.703161",
+        "OBJECTID": "1461",
+        "Facility_ID": "BRIMBA8404",
+        "FacilityName": "The Lakes Health & Fitness Centre",
+        "StreetNo": "555",
+        "StreetName": "Sunshine",
+        "StreetType": "Avenue",
+        "SuburbTown": "SUNSHINE",
+        "Postcode": "3020",
+        "FaciltySportPlayedID": "26416",
+        "SportsPlayed": "Fitness / Gymnasium Workouts",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "Female, Male",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.80096,
+          -37.703161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.828995",
+        "Y": "-37.779588",
+        "OBJECTID": "1463",
+        "Facility_ID": "BRIMBA8330",
+        "FacilityName": "World Gym Sunshine",
+        "StreetNo": "131",
+        "StreetName": "Harvester",
+        "StreetType": "Road",
+        "SuburbTown": "SUNSHINE",
+        "Postcode": "3020",
+        "FaciltySportPlayedID": "26296",
+        "SportsPlayed": "Fitness / Gymnasium Workouts",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.828995,
+          -37.779588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.817151",
+        "Y": "-37.805148",
+        "OBJECTID": "1464",
+        "Facility_ID": "BRIMBA5534",
+        "FacilityName": "Xplode 24 Hr Gym",
+        "StreetNo": "656",
+        "StreetName": "Somerville",
+        "StreetType": "Road",
+        "SuburbTown": "SUNSHINE WEST",
+        "Postcode": "3020",
+        "FaciltySportPlayedID": "27878",
+        "SportsPlayed": "Fitness / Gymnasium Workouts",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.817151,
+          -37.805148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.793983",
+        "Y": "-37.684865",
+        "OBJECTID": "1465",
+        "Facility_ID": "BRIMBA8370",
+        "FacilityName": "Keilor Public Golf Course and Driving Range",
+        "StreetNo": "540",
+        "StreetName": "Calder",
+        "StreetType": "Highway",
+        "SuburbTown": "KEILOR",
+        "Postcode": "3036",
+        "FaciltySportPlayedID": "26361",
+        "SportsPlayed": "Golf",
+        "NumberFieldCourts": "18",
+        "FieldSurfaceType": "18 Hole Course - Public",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.793983,
+          -37.684865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.773947",
+        "Y": "-37.793618",
+        "OBJECTID": "1466",
+        "Facility_ID": "BRIMBA8399",
+        "FacilityName": "Sunshine Golf Club",
+        "StreetNo": "475",
+        "StreetName": "Mt Derrimut",
+        "StreetType": "Road",
+        "SuburbTown": "DERRIMUT",
+        "Postcode": "3020",
+        "FaciltySportPlayedID": "26410",
+        "SportsPlayed": "Golf",
+        "NumberFieldCourts": "1",
+        "FieldSurfaceType": "18 Hole Course - Public",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.773947,
+          -37.793618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.827302",
+        "Y": "-37.740416",
+        "OBJECTID": "1467",
+        "Facility_ID": "BRIMBA11479",
+        "FacilityName": "Gymnastics Unlimited",
+        "StreetNo": "12",
+        "StreetName": "Malcolm",
+        "StreetType": "Court",
+        "SuburbTown": "KELBA",
+        "Postcode": "3021",
+        "FaciltySportPlayedID": "27312",
+        "SportsPlayed": "Gymnastics",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.827302,
+          -37.740416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.827255",
+        "Y": "-37.740374",
+        "OBJECTID": "1468",
+        "Facility_ID": "BRIMBA8356",
+        "FacilityName": "Gymnastics Unlimited Australia",
+        "StreetNo": "43073",
+        "StreetName": "Sunshine",
+        "StreetType": "Avenue",
+        "SuburbTown": "KEALBA",
+        "Postcode": "3021",
+        "FaciltySportPlayedID": "26336",
+        "SportsPlayed": "Gymnastics",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.827255,
+          -37.740374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.781168",
+        "Y": "-37.770581",
+        "OBJECTID": "1471",
+        "Facility_ID": "BRIMBA8341",
+        "FacilityName": "Deer Park Bowling Club",
+        "StreetNo": "780",
+        "StreetName": "Ballarat",
+        "StreetType": "Road",
+        "SuburbTown": "DEER PARK",
+        "Postcode": "3023",
+        "FaciltySportPlayedID": "26309",
+        "SportsPlayed": "Lawn Bowls",
+        "NumberFieldCourts": "2",
+        "FieldSurfaceType": "Grass",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.781168,
+          -37.770581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.832315",
+        "Y": "-37.716472",
+        "OBJECTID": "1472",
+        "Facility_ID": "BRIMBA8365",
+        "FacilityName": "Keilor Bowls Club",
+        "StreetNo": "1",
+        "StreetName": "Barcelona",
+        "StreetType": "Avenue",
+        "SuburbTown": "KEILOR",
+        "Postcode": "3036",
+        "FaciltySportPlayedID": "26350",
+        "SportsPlayed": "Lawn Bowls",
+        "NumberFieldCourts": "2",
+        "FieldSurfaceType": "Grass",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.832315,
+          -37.716472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.837631",
+        "Y": "-37.786648",
+        "OBJECTID": "1473",
+        "Facility_ID": "BRIMBA8373",
+        "FacilityName": "Kevin Wheelan Gardens",
+        "StreetNo": "",
+        "StreetName": "Dickson",
+        "StreetType": "Street",
+        "SuburbTown": "SUNSHINE",
+        "Postcode": "3020",
+        "FaciltySportPlayedID": "26368",
+        "SportsPlayed": "Lawn Bowls",
+        "NumberFieldCourts": "2",
+        "FieldSurfaceType": "Grass",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.837631,
+          -37.786648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.776375",
+        "Y": "-37.731574",
+        "OBJECTID": "1474",
+        "Facility_ID": "BRIMBA4258",
+        "FacilityName": "St Albans Bowls Club",
+        "StreetNo": "",
+        "StreetName": "Magnolia",
+        "StreetType": "Avenue",
+        "SuburbTown": "ST ALBANS",
+        "Postcode": "3021",
+        "FaciltySportPlayedID": "26726",
+        "SportsPlayed": "Lawn Bowls",
+        "NumberFieldCourts": "1",
+        "FieldSurfaceType": "Grass",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.776375,
+          -37.731574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.824134",
+        "Y": "-37.779357",
+        "OBJECTID": "1475",
+        "Facility_ID": "BRIMBA8398",
+        "FacilityName": "Sunshine City Bowls Club",
+        "StreetNo": "24",
+        "StreetName": "Talmage",
+        "StreetType": "Street",
+        "SuburbTown": "SUNSHINE",
+        "Postcode": "3020",
+        "FaciltySportPlayedID": "26409",
+        "SportsPlayed": "Lawn Bowls",
+        "NumberFieldCourts": "2",
+        "FieldSurfaceType": "Grass",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.824134,
+          -37.779357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.778911",
+        "Y": "-37.771206",
+        "OBJECTID": "1477",
+        "Facility_ID": "BRIMBA8359",
+        "FacilityName": "Hunt Club Community Arts Centre",
+        "StreetNo": "775",
+        "StreetName": "Ballarat",
+        "StreetType": "Road",
+        "SuburbTown": "DEER PARK",
+        "Postcode": "3023",
+        "FaciltySportPlayedID": "26340",
+        "SportsPlayed": "Martial Arts",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.778911,
+          -37.771206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.800567",
+        "Y": "-37.744557",
+        "OBJECTID": "1479",
+        "Facility_ID": "BRIMBA8409",
+        "FacilityName": "Wright Martial Arts Centre",
+        "StreetNo": "327",
+        "StreetName": "Main",
+        "StreetType": "Road East",
+        "SuburbTown": "ST ALBANS",
+        "Postcode": "3021",
+        "FaciltySportPlayedID": "26426",
+        "SportsPlayed": "Martial Arts",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.800567,
+          -37.744557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.760049",
+        "Y": "-37.702186",
+        "OBJECTID": "1480",
+        "Facility_ID": "BRIMBA8340",
+        "FacilityName": "Copperfield Secondary College",
+        "StreetNo": "65-75",
+        "StreetName": "Community",
+        "StreetType": "Hub",
+        "SuburbTown": "SYDENHAM",
+        "Postcode": "3037",
+        "FaciltySportPlayedID": "26308",
+        "SportsPlayed": "Netball",
+        "NumberFieldCourts": "2",
+        "FieldSurfaceType": "Asphalt",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.760049,
+          -37.702186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.829672",
+        "Y": "-37.773235",
+        "OBJECTID": "1482",
+        "Facility_ID": "BRIMBA8400",
+        "FacilityName": "Sunshine Roller Skating Centre",
+        "StreetNo": "38",
+        "StreetName": "McIntyre",
+        "StreetType": "Road",
+        "SuburbTown": "SUNSHINE",
+        "Postcode": "3020",
+        "FaciltySportPlayedID": "26411",
+        "SportsPlayed": "Roller Sports - Other",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.829672,
+          -37.773235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.803402",
+        "Y": "-37.728044",
+        "OBJECTID": "1483",
+        "Facility_ID": "BRIMBA8385",
+        "FacilityName": "Packard Street Reserve",
+        "StreetNo": "",
+        "StreetName": "Packard",
+        "StreetType": "Street",
+        "SuburbTown": "KEILOR DOWNS",
+        "Postcode": "3038",
+        "FaciltySportPlayedID": "26386",
+        "SportsPlayed": "Skating",
+        "NumberFieldCourts": "1",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.803402,
+          -37.728044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.806221",
+        "Y": "-37.778452",
+        "OBJECTID": "1485",
+        "Facility_ID": "BRIMBA8326",
+        "FacilityName": "Ardeer Reserve",
+        "StreetNo": "8",
+        "StreetName": "Helene",
+        "StreetType": "Street",
+        "SuburbTown": "ARDEER",
+        "Postcode": "3022",
+        "FaciltySportPlayedID": "26290",
+        "SportsPlayed": "Soccer",
+        "NumberFieldCourts": "1",
+        "FieldSurfaceType": "Grass",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.806221,
+          -37.778452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.815455",
+        "Y": "-37.791316",
+        "OBJECTID": "1489",
+        "Facility_ID": "BRIMBA8337",
+        "FacilityName": "Castley Reserve",
+        "StreetNo": "",
+        "StreetName": "Simmie",
+        "StreetType": "Street",
+        "SuburbTown": "SUNSHINE WEST",
+        "Postcode": "3037",
+        "FaciltySportPlayedID": "26305",
+        "SportsPlayed": "Soccer",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.815455,
+          -37.791316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.828573",
+        "Y": "-37.785266",
+        "OBJECTID": "1490",
+        "Facility_ID": "BRIMBA8338",
+        "FacilityName": "Chaplin Reserve",
+        "StreetNo": "112-116",
+        "StreetName": "Anderson",
+        "StreetType": "Road",
+        "SuburbTown": "SUNSHINE",
+        "Postcode": "3020",
+        "FaciltySportPlayedID": "26306",
+        "SportsPlayed": "Soccer",
+        "NumberFieldCourts": "1",
+        "FieldSurfaceType": "Grass",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.828573,
+          -37.785266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.814423",
+        "Y": "-37.733267",
+        "OBJECTID": "1491",
+        "Facility_ID": "BRIMBA8339",
+        "FacilityName": "Churchill Reserve",
+        "StreetNo": "",
+        "StreetName": "Fox",
+        "StreetType": "Street",
+        "SuburbTown": "ST ALBANS",
+        "Postcode": "3021",
+        "FaciltySportPlayedID": "26307",
+        "SportsPlayed": "Soccer",
+        "NumberFieldCourts": "3",
+        "FieldSurfaceType": "Grass",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.814423,
+          -37.733267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.777599",
+        "Y": "-37.688274",
+        "OBJECTID": "1493",
+        "Facility_ID": "BRIMBA8368",
+        "FacilityName": "Keilor Lodge Reserve",
+        "StreetNo": "",
+        "StreetName": "Robertsons",
+        "StreetType": "Road",
+        "SuburbTown": "SYDENHAM",
+        "Postcode": "3037",
+        "FaciltySportPlayedID": "26353",
+        "SportsPlayed": "Soccer",
+        "NumberFieldCourts": "2",
+        "FieldSurfaceType": "Grass",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.777599,
+          -37.688274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.819192",
+        "Y": "-37.749222",
+        "OBJECTID": "1496",
+        "Facility_ID": "BRIMBA8376",
+        "FacilityName": "Larisa Reserve",
+        "StreetNo": "",
+        "StreetName": "Larisa",
+        "StreetType": "Road",
+        "SuburbTown": "ST ALBANS",
+        "Postcode": "3021",
+        "FaciltySportPlayedID": "26373",
+        "SportsPlayed": "Soccer",
+        "NumberFieldCourts": "1",
+        "FieldSurfaceType": "Grass",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.819192,
+          -37.749222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.798335",
+        "Y": "-37.746701",
+        "OBJECTID": "1498",
+        "Facility_ID": "BRIMBA8380",
+        "FacilityName": "McKechnie Reserve",
+        "StreetNo": "",
+        "StreetName": "McKechnie",
+        "StreetType": "Street",
+        "SuburbTown": "ST ALBANS",
+        "Postcode": "3021",
+        "FaciltySportPlayedID": "26380",
+        "SportsPlayed": "Soccer",
+        "NumberFieldCourts": "2",
+        "FieldSurfaceType": "Grass",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.798335,
+          -37.746701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.80674",
+        "Y": "-37.770817",
+        "OBJECTID": "1499",
+        "Facility_ID": "BRIMBA8387",
+        "FacilityName": "Polish Sports and Recreation Centre",
+        "StreetNo": "19",
+        "StreetName": "Carrington",
+        "StreetType": "Drive",
+        "SuburbTown": "ALBION",
+        "Postcode": "3020",
+        "FaciltySportPlayedID": "26388",
+        "SportsPlayed": "Soccer",
+        "NumberFieldCourts": "2",
+        "FieldSurfaceType": "Grass",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.80674,
+          -37.770817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.799159",
+        "Y": "-37.792507",
+        "OBJECTID": "1500",
+        "Facility_ID": "BRIMBA8388",
+        "FacilityName": "Ralph Reserve",
+        "StreetNo": "",
+        "StreetName": "Ralph",
+        "StreetType": "Street",
+        "SuburbTown": "SUNSHINE",
+        "Postcode": "3020",
+        "FaciltySportPlayedID": "26389",
+        "SportsPlayed": "Soccer",
+        "NumberFieldCourts": "1",
+        "FieldSurfaceType": "Grass",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.799159,
+          -37.792507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.774914",
+        "Y": "-37.764058",
+        "OBJECTID": "1504",
+        "Facility_ID": "BRIMBA8343",
+        "FacilityName": "Deer Park Regional Community Sports Complex",
+        "StreetNo": "",
+        "StreetName": "Station",
+        "StreetType": "Road",
+        "SuburbTown": "DEER PARK",
+        "Postcode": "3023",
+        "FaciltySportPlayedID": "26312",
+        "SportsPlayed": "Swimming",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.774914,
+          -37.764058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.766512",
+        "Y": "-37.697338",
+        "OBJECTID": "1505",
+        "Facility_ID": "BRIMBA8352",
+        "FacilityName": "Flippers Swimming School",
+        "StreetNo": "50",
+        "StreetName": "Trickey",
+        "StreetType": "Avenue",
+        "SuburbTown": "SYDENHAM",
+        "Postcode": "3037",
+        "FaciltySportPlayedID": "26328",
+        "SportsPlayed": "Swimming",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.766512,
+          -37.697338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.803944",
+        "Y": "-37.728471",
+        "OBJECTID": "1513",
+        "Facility_ID": "BRIMBA8366",
+        "FacilityName": "Keilor Downs Community Centre",
+        "StreetNo": "70",
+        "StreetName": "Taylors",
+        "StreetType": "Road",
+        "SuburbTown": "KEILOR DOWNS",
+        "Postcode": "3038",
+        "FaciltySportPlayedID": "26351",
+        "SportsPlayed": "Tae Kwon Do",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.803944,
+          -37.728471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.807771",
+        "Y": "-37.745805",
+        "OBJECTID": "1514",
+        "Facility_ID": "BRIMBA8397",
+        "FacilityName": "St Albans Secondary College",
+        "StreetNo": "",
+        "StreetName": "Main",
+        "StreetType": "Road East",
+        "SuburbTown": "ST ALBANS",
+        "Postcode": "3021",
+        "FaciltySportPlayedID": "26408",
+        "SportsPlayed": "Tae Kwon Do",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.807771,
+          -37.745805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.82614",
+        "Y": "-37.777859",
+        "OBJECTID": "1515",
+        "Facility_ID": "BRIMBA8325",
+        "FacilityName": "AMF Bowling",
+        "StreetNo": "505",
+        "StreetName": "Ballarat",
+        "StreetType": "Road",
+        "SuburbTown": "SUNSHINE",
+        "Postcode": "3020",
+        "FaciltySportPlayedID": "26289",
+        "SportsPlayed": "Ten Pin Bowling",
+        "NumberFieldCourts": "",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.82614,
+          -37.777859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.842179",
+        "Y": "-37.785182",
+        "OBJECTID": "1526",
+        "Facility_ID": "BRIMBA8383",
+        "FacilityName": "Our Lady's Tennis Club",
+        "StreetNo": "",
+        "StreetName": "Devonshire",
+        "StreetType": "Road",
+        "SuburbTown": "SUNSHINE",
+        "Postcode": "3020",
+        "FaciltySportPlayedID": "26384",
+        "SportsPlayed": "Tennis (Outdoor)",
+        "NumberFieldCourts": "4",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.842179,
+          -37.785182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.763776",
+        "Y": "-37.702497",
+        "OBJECTID": "1527",
+        "Facility_ID": "BRIMBA8384",
+        "FacilityName": "Overton Lea Reserve",
+        "StreetNo": "",
+        "StreetName": "Overton Lea",
+        "StreetType": "Boulevard",
+        "SuburbTown": "SYDENHAM",
+        "Postcode": "3037",
+        "FaciltySportPlayedID": "26385",
+        "SportsPlayed": "Tennis (Outdoor)",
+        "NumberFieldCourts": "4",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "BRIMBANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.763776,
+          -37.702497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "X": "144.70688",
+        "Y": "-37.891872",
+        "OBJECTID": "5307",
+        "Facility_ID": "MARIBY5281",
+        "FacilityName": "Victoria University of Technology",
+        "StreetNo": "",
+        "StreetName": "",
+        "StreetType": "",
+        "SuburbTown": "",
+        "Postcode": "",
+        "FaciltySportPlayedID": "27530",
+        "SportsPlayed": "Cycling",
+        "NumberFieldCourts": "1",
+        "FieldSurfaceType": "",
+        "FacilityAge": "",
+        "FacilityCondition": "",
+        "FacilityUpgradeAge": "",
+        "Changerooms": "",
+        "LGA": "WYNDHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.70688,
+          -37.891872
+        ]
+      }
+    }
+  ]
+}
