@@ -1,0 +1,135 @@
+<html>
+<head>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.1.0/dist/leaflet.css"
+   integrity="sha512-wcw6ts8Anuw10Mzh9Ytw4pylW8+NAD4ch3lqm9lzAsTxg0GFeJgoAtxuCLREZSC5lUXdVyo/7yfsqFjQ4S+aKw=="
+   crossorigin=""/>
+   	<link type="text/css" href="lib/dc.css" rel="stylesheet"/>
+    <!-- Make sure you put this AFTER Leaflet's CSS -->
+ <script src="https://unpkg.com/leaflet@1.1.0/dist/leaflet.js"
+   integrity="sha512-mNqn2Wg7tSToJhvHcqfzLMU6J4mkOImSPTxVZAdo+lcPlk+GhZmYgACEe0x35K7YzW1zJ7XyJV/TT1MrdXvMcA=="
+   crossorigin=""></script>
+   	<meta charset="UTF-8">
+</head>
+<body>
+<style>
+#mapid { height: 800px; width: 1000px;  }
+
+</style>
+ <div id="mapid"></div>  
+
+</body>
+
+
+<script src="bri5.geojson" type="text/javascript"></script>
+
+<script>
+
+
+var mymap = L.map('mapid', {
+        preferCanvas: true
+    }).setView([ -37.885029,144.670132 ], 15); 	 // -37.898601, 144.640316
+
+L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoiYmlnc292IiwiYSI6ImNqNHd3d2o4bjE5MW4yd3FwNTlpb2tlcHgifQ.qY5V02Xlj7YyrnuGImyntQ', {
+    attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
+    maxZoom: 18,
+    id: 'mapbox.streets',
+    accessToken: 'your.mapbox.access.token'
+}).addTo(mymap);
+
+
+//var marker = L.marker([-37.924111, 144.67498]).addTo(mymap);
+	
+//marker.bindPopup("<b>National Equestrian Centre</b><br>Polo").openPopup();
+var geojsonMarkerOptions = {
+    radius: 8,
+    fillColor: "#ff7800",
+    color: "#000",
+    weight: 1,
+    opacity: 1,
+    fillOpacity: 0.8
+};
+
+	
+
+	var SportsIcon = L.Icon.extend({
+		options: {
+			//shadowUrl: 'leaf-shadow.png',
+			iconSize:     [48, 48],       
+			shadowSize:   [50, 64],
+			iconAnchor:   [22, 94],
+			shadowAnchor: [4, 62],
+			popupAnchor:  [-3, -76]
+		}
+	});
+
+	var TennisIcon = new SportsIcon({iconUrl: 'icons/tennis.png'}),
+		NetballIcon = new SportsIcon({iconUrl: 'icons/netball.png'}),
+		SwimmingIcon = new SportsIcon({iconUrl: 'icons/swim.png'}),
+		SoccerIcon = new SportsIcon({iconUrl: 'icons/soccer.png'});
+		athleticsIcon = new SportsIcon({iconUrl: 'icons/athletics.png'});
+		bushwalkIcon = new SportsIcon({iconUrl: 'icons/bushwalk.png'});
+		CricketIcon = new SportsIcon({iconUrl: 'icons/cricket.png'});
+		CyclingIcon = new SportsIcon({iconUrl: 'icons/cycling.png'});
+		GymIcon = new SportsIcon({iconUrl: 'icons/gym.png'});
+		pilatesIcon = new SportsIcon({iconUrl: 'icons/pilates.png'});
+		walkIcon = new SportsIcon({iconUrl: 'icons/walk.png'});      
+		yogaIcon = new SportsIcon({iconUrl: 'icons/yoga.png'});     
+		miscIcon = new SportsIcon({iconUrl: 'icons/misc.png'});           
+		AFLIcon = new SportsIcon({iconUrl: 'icons/afl.png'}); 
+
+
+	
+function onEachFeature(feature, layer) {
+		var popupContent = "<p>" + feature.properties.FacilityName
+				 + ", "+feature.properties.SportsPlayed+"</p><a href ='#' > Check details</a>";
+
+		if (feature.properties && feature.properties.popupContent) {
+			popupContent += feature.properties.popupContent;
+		}
+
+		layer.bindPopup(popupContent);
+		switch (feature.properties.SportsPlayed) {
+            case 'Swimming': layer.setIcon(SwimmingIcon);	break;	
+            case 'Soccer':  layer.setIcon(SoccerIcon);break;	
+            case 'Cricket':  layer.setIcon(CricketIcon);break;	
+            case 'Australian Rules Football':  layer.setIcon(AFLIcon);break;	
+            case 'Tennis (Outdoor)':  layer.setIcon(TennisIcon);break;	
+            case 'Fitness / Gymnasium Workouts':  layer.setIcon(GymIcon);break;	
+            case 'Aerobics':  layer.setIcon(yogaIcon);break;	            
+            case 'Cycling':  layer.setIcon(CyclingIcon);break;	            
+            case 'Skating':  layer.setIcon(miscIcon);break;	            
+            case 'BMX':  layer.setIcon(CyclingIcon);break;	            
+            case 'Equestrian':  layer.setIcon(miscIcon);break;	            
+            case 'Gymnastics':  layer.setIcon(miscIcon);break;	            
+            case 'Netball':  layer.setIcon(NetballIcon);break;	            
+            case 'Cricket (Indoor)':  layer.setIcon(CricketIcon);break;	            
+            case 'Netball (indoor)':  layer.setIcon(NetballIcon);break;	            
+            case 'Rugby League':  layer.setIcon(miscIcon);break;	            
+            case 'Rugby Union':  layer.setIcon(miscIcon);break;	            
+            case 'Golf':  layer.setIcon(miscIcon);break;	
+            case 'Lawn Bowls':  layer.setIcon(miscIcon); break;	
+            default: layer.setIcon(miscIcon); break;	            
+        }
+		layer.addTo(mymap);
+	}
+   
+     
+
+	L.geoJSON(SportsFacilitities, {
+		filter: function (feature, layer) {
+			if (feature.properties) {
+				// If the property "underConstruction" exists and is true, return false (don't render features under construction)
+				//return feature.properties.underConstruction !== undefined ? !feature.properties.underConstruction : true;
+				return true;
+			}
+			return false;
+		},
+
+		onEachFeature: onEachFeature
+	}).addTo(mymap);	
+	
+
+	
+	
+</script>
+</html>
